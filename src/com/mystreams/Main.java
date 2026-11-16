@@ -16,7 +16,7 @@ public class Main {
     // JVM entry point.
     public static void main(String[] args) {
 
-        // Create a stream of
+        // Create a stream of numbers.
         Stream<Integer> myStream = Stream.of(4, 8, 6, 9, 0, 1, 3, 2, 4);
 
         // Converting it to HashSet.
